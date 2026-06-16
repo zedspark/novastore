@@ -102,6 +102,3 @@ Make sure you have installed:
 - Maven
 - PostgreSQL
 - Redis
-د
-
-اگر خواستی، مرحله بعدی من اینه که یک `README` نسخه نهایی و خیلی polished برات بنویسم که مستقیم فقط paste کنی.
